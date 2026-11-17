@@ -9,10 +9,12 @@ The packages and a `catalogue.json` describing them are attached to this reposit
 ## Regions
 
 Scotland is covered by 25 overlapping regions (neighbours overlap by a few kilometres, so a walk near an
-edge is on one map), and England by a Lake District region. Download only the ones you need.
+edge is on one map), or by a single All of Scotland package, and England by a Lake District region.
+Download only the ones you need.
 
 | Region | Size | Area |
 |---|---|---|
+| All of Scotland | 1.28 GB | Every Scottish region in one download: the mainland, the islands, Orkney and Shetland (also a strip of northern England with OS data only). Large, so best on Wi-Fi. |
 | Glen Coe & Ben Nevis | 31 MB | Glen Coe, the Aonach Eagach, Ben Nevis, the Mamores and Fort William. |
 | Cairngorms | 83 MB | Cairngorms National Park, from Aviemore to Braemar and Glen Shee. |
 | Galloway & Dumfries | 86 MB | The Galloway Hills, the Merrick, the Solway coast and Dumfries. |
@@ -42,7 +44,8 @@ edge is on one map), and England by a Lake District region. Download only the on
 
 Packages are rebuilt roughly twice a year, or when Ordnance Survey publishes new data. A release may
 link to unchanged packages attached to an earlier release (its notes say which), so earlier releases are
-kept while they're in use.
+kept while they're in use. Each package records its Maps page heading, and `catalogue.json` lists the
+headings in order, so new regions appear in the app without an app update.
 
 ## What's in a package
 
