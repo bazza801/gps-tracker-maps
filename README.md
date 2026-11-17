@@ -1,6 +1,6 @@
-# Cairn map packages
+# Corrie to Cairn map packages
 
-Offline regional map packages for Cairn, a walking and hill navigation app. Each package is a single vector
+Offline regional map packages for Corrie to Cairn, a walking and hill navigation app. Each package is a single vector
 MBTiles file that the app downloads (or imports) and shows without a network connection.
 
 The packages and a `catalogue.json` describing them are attached to this repository's
@@ -9,7 +9,7 @@ The packages and a `catalogue.json` describing them are attached to this reposit
 ## Regions
 
 Scotland is covered by 25 overlapping regions (neighbours overlap by a few kilometres, so a walk near an
-edge is on one map). Download only the ones you need.
+edge is on one map), and England by a Lake District region. Download only the ones you need.
 
 | Region | Size | Area |
 |---|---|---|
@@ -38,8 +38,11 @@ edge is on one map). Download only the ones you need.
 | Outer Hebrides | 82 MB | Lewis, Harris, the Uists, Benbecula and Barra. |
 | Orkney | 15 MB | Mainland Orkney, Hoy and the northern and southern isles. |
 | Shetland | 27 MB | Mainland Shetland, Unst, Yell and Fair Isle. |
+| Lake District | 72 MB | All the Lake District fells (every Wainwright), with Keswick, Ambleside, Windermere, Kendal, Penrith and Cockermouth. |
 
-Packages are rebuilt roughly twice a year, or when Ordnance Survey publishes new data.
+Packages are rebuilt roughly twice a year, or when Ordnance Survey publishes new data. A release may
+link to unchanged packages attached to an earlier release (its notes say which), so earlier releases are
+kept while they're in use.
 
 ## What's in a package
 
