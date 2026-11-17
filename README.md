@@ -1,6 +1,6 @@
 # Cairn map packages
 
-Offline regional map packages for Cairn, an offline walking and hill navigation app. Each package is a single vector
+Offline regional map packages for Cairn, a walking and hill navigation app. Each package is a single vector
 MBTiles file that the app downloads (or imports) and shows without a network connection.
 
 The packages and a `catalogue.json` describing them are attached to this repository's
