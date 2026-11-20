@@ -125,17 +125,28 @@ Ireland and the Isle of Man (Ordnance Survey data covers Great Britain only):
 Zoom levels 9 to 14. Using a package outside the app: it's a standard MBTiles file with
 Mapbox Vector Tile (PBF) tiles, readable by MapLibre and other vector tile tools.
 
+## Place names (search)
+
+`places.sqlite.gz` is the app's optional place search file: about 310,000 named places across Great
+Britain, Ireland and the Isle of Man (towns, villages, hills, glens, corries, passes, lochs and lakes,
+rivers and burns, woods, waterfalls, islands, stations, national parks), one file for everywhere. It's a
+gzipped SQLite database with a full-text index, listed in `catalogue.json` as `search`.
+
+- Great Britain: **OS Open Names** and **OS Open Rivers**.
+- Ireland and the Isle of Man: **OpenStreetMap**.
+
 ## Licences and attribution
 
 The packages combine data under several licences. Anyone using them must keep the attributions for
 the data they contain (each package's metadata has its attribution, and Irish and Manx packages also a
 `notice` with the full Copernicus notice below).
 
-- **Ordnance Survey OS Open Zoomstack and OS Terrain 50** (Great Britain packages), under the
+- **Ordnance Survey OS Open Zoomstack and OS Terrain 50** (Great Britain packages), and **OS Open
+  Names and OS Open Rivers** (the place names file), under the
   [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
   Attribution: *Contains OS data © Crown copyright and database rights [year]* (the year is
   recorded in each package's metadata).
-- **OpenStreetMap data** (all packages), under the [Open Database Licence (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
+- **OpenStreetMap data** (all packages, and the place names file), under the [Open Database Licence (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
   Attribution: *© OpenStreetMap contributors*.
 - **Copernicus DEM GLO-30** (contours in the Ireland and Isle of Man packages), under the
   [Copernicus DEM licence](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/DEM/resources/license/License-COPDEM-30.pdf).
