@@ -45,14 +45,15 @@ Scotland, England, Wales, Ireland (North and South) and the Isle of Man are cove
 
 | Map | Size | Area |
 |---|---|---|
-| Northern England | 1.16 GB | All the Northern England maps in one: the Lake District, the Pennines, the Dales, the Moors and the Peak District. |
-| Lake District | 73 MB | All the Lake District fells (every Wainwright), with Keswick, Ambleside, Windermere, Kendal, Penrith and Cockermouth. |
+| Northern England | 1.21 GB | All the Northern England maps in one: the Lake District, the Pennines, the Dales, the Moors, the Peak District and Lincolnshire. |
+| Lake District | 74 MB | All the Lake District fells (every Wainwright), with Keswick, Ambleside, Windermere, Kendal, Penrith, Cockermouth, and the west Cumbrian coast from Whitehaven to St Bees. |
 | Northumberland & the Cheviots | 140 MB | The Cheviot Hills, Kielder, Hadrian's Wall and the Northumberland coast. |
 | North Pennines | 51 MB | Cross Fell, Teesdale, Weardale, Alston and the Eden valley. |
 | Yorkshire Dales & Howgills | 62 MB | The Three Peaks, the Howgill Fells, Swaledale, Wensleydale and Wharfedale. |
-| North York Moors & the Wolds | 196 MB | The North York Moors, the Cleveland Hills, and the Yorkshire and Lincolnshire Wolds. |
+| North York Moors & the Wolds | 200 MB | The North York Moors, the Cleveland Hills, and the Yorkshire and Lincolnshire Wolds. |
 | Bowland & the South Pennines | 205 MB | The Forest of Bowland, Pendle, the West Pennine Moors and the South Pennines. |
 | Peak District | 246 MB | Kinder Scout, Bleaklow, the Dark Peak and White Peak, the Roaches, and Charnwood Forest. |
+| Lincolnshire Wolds & Coast | 76 MB | The Lincolnshire Wolds, Lincoln, Louth, Boston and the coast from the Wash to the Humber. |
 
 ### Wales
 
@@ -70,13 +71,16 @@ Scotland, England, Wales, Ireland (North and South) and the Isle of Man are cove
 
 | Map | Size | Area |
 |---|---|---|
-| Southern England | 1.72 GB | All the Southern England maps in one: the Marches, the South West, the Downs and the Chilterns. |
+| Southern England | 2.03 GB | All the Southern England maps in one: the Marches, the South West and Scilly, the Downs, the Chilterns, Kent and East Anglia. |
 | Shropshire Hills & the Marches | 176 MB | The Long Mynd, Stiperstones, the Clees, the Wrekin, the Malverns, Bredon, Cleeve Hill and the Forest of Dean. |
-| Devon, Cornwall & Exmoor | 182 MB | Dartmoor, Exmoor, Bodmin Moor and the Cornish coast. |
+| Devon, Cornwall & Exmoor | 184 MB | Dartmoor, Exmoor, Bodmin Moor, the Cornish coast and the Isles of Scilly. |
 | Somerset & Dorset | 171 MB | The Quantocks, the Blackdowns, the Mendips, Cranborne Chase and the Dorset coast. |
 | Hampshire & the Isle of Wight | 100 MB | The western South Downs, the New Forest and the Isle of Wight. |
 | Chilterns & North Wessex Downs | 149 MB | The North Wessex Downs, the Ridgeway and the Chilterns. |
 | South Downs, the Weald & North Downs | 182 MB | The eastern South Downs, the Surrey Hills, the High Weald and the North Downs. |
+| Kent Downs & the White Cliffs | 99 MB | The North Downs Way to Dover, the White Cliffs, Canterbury, the Kent coast, Romney Marsh and Rye. |
+| Essex & Suffolk Coast | 118 MB | Dedham Vale, the Suffolk Coast & Heaths, the Essex estuaries, Ipswich, Colchester and Southend. |
+| Norfolk & the Broads | 99 MB | The Broads, the north Norfolk coast, the Brecks, Norwich, King's Lynn and Great Yarmouth. |
 
 ### Ireland
 
